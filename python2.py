@@ -11,6 +11,6 @@ while x!="done":
         z=int(x)+z
     if x.isdecimal()==False and x!="done":
         print('Please enter only numbers or string "done"')
-print('summary is',z)    
-print("quantity is",quantity)    
-print('arithmetic average is',z/quantity)
+print('Summary is',z)    
+print("Quantity is",quantity)    
+print('Arithmetic average is',z/quantity)
